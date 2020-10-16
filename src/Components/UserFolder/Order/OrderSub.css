@@ -1,0 +1,11 @@
+.ship-form{
+    background-color: lightgray;
+
+}
+.ship-form input{
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 500px;
+}

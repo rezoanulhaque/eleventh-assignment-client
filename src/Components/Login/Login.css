@@ -1,0 +1,15 @@
+.loginbutton{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    padding-top: 50px;
+    border-radius: 5px;
+}
+.login{
+    text-align: center;
+    padding: 50px;
+}
+.loginimg{
+    margin-bottom: 50px;
+}
